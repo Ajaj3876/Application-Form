@@ -1,0 +1,25 @@
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\Application Form.exe
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\Application Form.deps.json
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\Application Form.runtimeconfig.json
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\Application Form.dll
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\Application Form.pdb
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application_Form.FrmRegistration.resources
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.csproj.GenerateResource.cache
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.AssemblyInfoInputs.cache
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.AssemblyInfo.cs
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.csproj.CoreCompileInputs.cache
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.dll
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\refint\Application Form.dll
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.pdb
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.genruntimeconfig.cache
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\ref\Application Form.dll
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application_Form.Properties.Resources.resources
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\Application Form\Application Form\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Application Form.csproj.AssemblyReference.cache
+D:\C#\Application Form\Application Form\obj\Debug\net8.0-windows\Applicat.DE5B1092.Up2Date
